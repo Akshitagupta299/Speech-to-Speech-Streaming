@@ -1,4 +1,4 @@
-# Speech-to-Speech Streaming
+# Speech-to-Speech Streaming🎙🔊
 
 ![Speech-to-Speech Streaming](https://img.shields.io/badge/Language-Python-blue.svg) ![Status](https://img.shields.io/badge/Status-Active-green.svg) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -81,5 +81,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 For queries or suggestions, reach out to **Akshita Gupta** via [GitHub](https://github.com/Akshitagupta299).
 
 ---
-Made with ❤️ by **Akshita Gupta**
+Made by **Akshita Gupta**
 
