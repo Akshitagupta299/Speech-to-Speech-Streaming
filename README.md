@@ -72,7 +72,8 @@ The application will be available at `http://127.0.0.1:5000/`.
 - **Whisper import error?** Uninstall `whisper` and install `openai-whisper`.
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](./LICENSE).  
+© 2024 Akshita Gupta
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
